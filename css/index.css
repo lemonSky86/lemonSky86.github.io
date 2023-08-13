@@ -2074,7 +2074,7 @@ figure.highlight pre .javascript .function {
   flex: 1 auto;
   margin: 0 auto;
   padding: 40px 15px;
-  max-width: 1200px;
+  max-width: 1020px;
   width: 100%;
 }
 @media screen and (max-width: 900px) {
@@ -2301,7 +2301,7 @@ figure.highlight pre .javascript .function {
 }
 #recent-posts > .recent-post-item .post_cover {
   overflow: hidden;
-  width: 42%;
+  width: 55%;
   height: 100%;
 }
 @media screen and (max-width: 768px) {
@@ -2876,7 +2876,7 @@ h1.page-title + .tag-cloud-list {
     display: none;
   }
   html.hide-aside .layout > div:first-child {
-    width: 80%;
+    width: 60%;
   }
 }
 .page .sticky_layout {
